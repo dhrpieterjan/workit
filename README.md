@@ -8,3 +8,6 @@
 4. Create a pull request
 5. You are only expected to work if your pull request is accepted!
 
+### Workflow GIF
+
+![lol](workflowWorkIt.gif)
