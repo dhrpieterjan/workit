@@ -6,6 +6,7 @@ Geef hier je werkuren in voor de juiste week
 | Naam | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
 | ---- | ------- | ------- | -------- | --------- | ------- |
 | Pieter-Jan Philips | 0 | 0 | 0 | 0 | 0 |
+| Hans | 8 | 9 | 5 | 3 | 3 |
 
 ----
 
