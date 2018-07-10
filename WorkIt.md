@@ -2,6 +2,13 @@
 
 Geef hier je werkuren in voor de juiste week
 
+## Week 23 - 27  Juli
+| Naam | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
+| ---- | ------- | ------- | -------- | --------- | ------- |
+| Pieter-Jan Philips | 0 | 0 | 0 | 0 | 0 |
+
+----
+
 ## Week 9 - 13  Juli
 | Naam | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
 | ---- | ------- | ------- | -------- | --------- | ------- |
