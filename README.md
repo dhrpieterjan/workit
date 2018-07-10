@@ -2,7 +2,7 @@
 
 ### Steps to add you hours:
 1. Edit the file "workit.md"
-2. Add a new line with te folowing template:
+2. Add a new line with the following template:
   - | NAME | HMON | HTH | HWE | HTH | HFR |
 3. Add a commit message like "Workhours NAME added for week ##-##"
 4. Create a pull request
