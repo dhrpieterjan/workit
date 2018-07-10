@@ -9,6 +9,13 @@ Geef hier je werkuren in voor de juiste week
 
 ----
 
+## Week 16 - 20  Juli
+| Naam | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
+| ---- | ------- | ------- | -------- | --------- | ------- |
+| LAB9K CLOSED | 0 | 0 | 0 | 0 | 0 |
+
+----
+
 ## Week 9 - 13  Juli
 | Naam | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
 | ---- | ------- | ------- | -------- | --------- | ------- |
