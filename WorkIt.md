@@ -25,3 +25,4 @@ Geef hier je werkuren in voor de juiste week
 | Jorg Wieme | 8 | 8 | 0 | 8 | 8 |
 | Hervé Munyaneza | 8 | 8 | 0 | 8 | 8 |
 | Ismail Ismail Kutlu | 8 | 8 | 0 | 0 | 0 |
+| Jef Willems | 0 | 0 | 0 | 8 | 8 |
