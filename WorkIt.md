@@ -7,6 +7,7 @@ Geef hier je werkuren in voor de juiste week
 | ---- | ------- | ------- | -------- | --------- | ------- |
 | Pieter-Jan Philips | 0 | 0 | 0 | 0 | 0 |
 | Hervé Munyaneza | 8 | 8 | 8 | 8 | 8 |
+| Michiel Derveeuw | 8 | 8 | 8 | 8 | 8 |
 
 ----
 
