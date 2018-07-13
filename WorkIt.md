@@ -22,7 +22,7 @@ Geef hier je werkuren in voor de juiste week
 ## Week 9 - 13  Juli
 | Naam | Maandag | Dinsdag | Woensdag | Donderdag | Vrijdag |
 | ---- | ------- | ------- | -------- | --------- | ------- |
-| Pieter-Jan Philips | 8 | 8 | 0 | 7 | 8 |
+| Pieter-Jan Philips | 8 | 8 | 0 | 8 | 4 |
 | Pieter Vandendriessche | 0 | 8 | 0 | 8 | 0 |
 | Michiel Derveeuw | 8 | 8 | 0 | 8 | 8 |
 | Jorg Wieme | 8 | 8 | 0 | 8 | 8 |
